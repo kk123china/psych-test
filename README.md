@@ -2,7 +2,12 @@
 
 一个面向中文用户的心理测评网站：47 项经典与专业量表，在线作答、即时评分、结果可视化与综合报告。
 
-**在线体验：<https://psych-test-web.pages.dev/>**
+**在线体验（主网址）：<https://psych-test-web.pages.dev/>**
+
+**备用网址（主站打不开时改用，数据同一套）：**
+
+- 备用① · Netlify：<https://psych-test-web.netlify.app/>
+- 备用② · Trae：<https://37k9kq25cq44o1n3k49.traesite.cn/>
 
 ## 主要功能
 
@@ -18,7 +23,7 @@
 | 前端 | Vue 3、Vite、Vue Router、Pinia、Chart.js |
 | 后端 | Node.js、Express |
 | 数据库 | Supabase Postgres |
-| 部署 | Cloudflare Pages + Pages Functions |
+| 部署 | Cloudflare Pages + Pages Functions（主），Netlify / Trae 镜像（备用） |
 
 ## 说明
 
